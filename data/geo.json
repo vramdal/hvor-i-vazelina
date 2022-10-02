@@ -1,0 +1,1730 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 0,
+        "radius": 0.1,
+        "title": "Axel Dønnums slakteri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.181168181056039,
+          60.31346874324773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "radius": 0.1,
+        "title": "Badet på Lena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.816041,
+          60.674735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "radius": 0.1,
+        "title": "Billerud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.894905454860648,
+          60.70630050454165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "radius": 0.5,
+        "title": "Bingsfoss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.259928237168761,
+          59.988187618774475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "radius": 2,
+        "title": "Brumunddal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.936068173863738,
+          60.88086074904966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "radius": 0.1,
+        "title": "Brøttet (Høggeriet)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5938647810745,
+          60.79768490878876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "radius": 1,
+        "title": "Bøverbru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.67279535627552,
+          60.6651274454947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "radius": 5,
+        "title": "Cannes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.001983868029484,
+          43.557407682931775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "radius": 1,
+        "title": "Dal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.201578417170099,
+          60.24914446016361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "radius": 1,
+        "title": "Dokka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.07267796214869,
+          60.835373838810256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "radius": 0.1,
+        "title": "Domkirkeodden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.039690152705852,
+          60.792779780325574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "radius": 0.5,
+        "title": "Eina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.599468762791268,
+          60.62943683296793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "radius": 6,
+        "title": "Einafjorden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.633187450759308,
+          60.57175209390297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "radius": 0.5,
+        "title": "Einastrand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.623256700911465,
+          60.56027786089903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "radius": 2,
+        "title": "Elverum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.563021339639318,
+          60.881958771771295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "radius": 0.5,
+        "title": "Etnedal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.63572838141767,
+          60.92613612290357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "radius": 2,
+        "title": "Fagernes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.233937799600072,
+          60.98492639925695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "radius": 15,
+        "title": "Finnskogen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.264208309336615,
+          60.42688965686878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "radius": 0.2,
+        "title": "Fjellhallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.684665170388488,
+          60.79326072912238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "radius": 25,
+        "title": "Folldal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.041842207380546,
+          62.202275909029204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "radius": 2,
+        "title": "Follebu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.284347263519347,
+          61.215825449707594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "radius": 1,
+        "title": "Fornebu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62850939706993,
+          59.89512652374459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "radius": 0.5,
+        "title": "Frognerseteren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.677588811460426,
+          59.97759312143185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "radius": 2,
+        "title": "Gjøvik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.685415267995026,
+          60.79776562045754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "radius": 1,
+        "title": "Gran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.572387744410593,
+          60.359502675999025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "radius": 0.1,
+        "title": "Grønstad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.689109403513125,
+          60.67150386443909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 26,
+        "radius": 19,
+        "title": "Hadeland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.447540584632044,
+          60.41110249678303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 27,
+        "radius": 2,
+        "title": "Halden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.384753566541395,
+          59.120064197875394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 28,
+        "radius": 0.5,
+        "title": "Harpefoss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.85979885391217,
+          61.57632102090798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 29,
+        "radius": 300,
+        "title": "Hawaii"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.18975999874053,
+          21.082363809555932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 30,
+        "radius": 1,
+        "title": "Hellerudsletta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97715311810652,
+          59.98337873163106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "radius": 15,
+        "title": "Helsingfors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.939400935915565,
+          60.17199586381741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 32,
+        "radius": 0.5,
+        "title": "Holmenkollen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.667118938899824,
+          59.96417878437322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "radius": 0.1,
+        "title": "Holtekilen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.60466087745416,
+          59.903743524665764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "radius": 35,
+        "title": "Honolulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.98211493861416,
+          21.48058435556956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 35,
+        "radius": 1,
+        "title": "Hunndalen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64130520879425,
+          60.786411166131046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 36,
+        "radius": 1.3,
+        "title": "Hønefoss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.257586092602903,
+          60.164796780655884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 37,
+        "radius": 1,
+        "title": "Håkenstad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.85005422977735,
+          60.68281556653642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 38,
+        "radius": 0.2,
+        "title": "Ilseng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.229963385179822,
+          60.77791272244646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 39,
+        "radius": 100,
+        "title": "Irland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.634541739489809,
+          53.16482443417335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 40,
+        "radius": 2,
+        "title": "Jørstadmoen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.385930632609234,
+          61.14832225258008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "radius": 0.5,
+        "title": "Kapp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.857789052059104,
+          60.71424194040322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "radius": 3,
+        "title": "Karlstad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.511519768595015,
+          59.40437931249019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 43,
+        "radius": 3,
+        "title": "Kiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.131056393686903,
+          54.309619762101114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "radius": 2,
+        "title": "Kirkenær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.059509527980422,
+          60.45703303416727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 45,
+        "radius": 1,
+        "title": "Kløfta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.142384157456757,
+          60.07629595864708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 46,
+        "radius": 0.3,
+        "title": "Kolbu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745090782985773,
+          60.65024069562701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "radius": 0.3,
+        "title": "Kraby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.855251968969315,
+          60.6774366447615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 48,
+        "radius": 3,
+        "title": "Kristiansand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.99541741135914,
+          58.147789257696125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 49,
+        "radius": 15,
+        "title": "Køln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.958389230766047,
+          50.94673032091386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 50,
+        "radius": 0.5,
+        "title": "Leira"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.291735748637926,
+          60.97113508656603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "radius": 1,
+        "title": "Lena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.81372446501802,
+          60.677087984228805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "radius": 2,
+        "title": "Lillehammer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.458510063724313,
+          61.12069814753497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 53,
+        "radius": 1,
+        "title": "Lom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.56866038492904,
+          61.837674511750286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 54,
+        "radius": 35,
+        "title": "Los Angeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25149554607432,
+          34.07167962672654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 55,
+        "radius": 1,
+        "title": "Lunner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.582231084512992,
+          60.303208201075485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 56,
+        "radius": 2,
+        "title": "Løten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.343143733783839,
+          60.81945839006743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 57,
+        "radius": 15,
+        "title": "Memphis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.99717648963178,
+          35.090361911719924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 58,
+        "radius": 0.5,
+        "title": "Mengshol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73429822849089,
+          60.80949857974571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "radius": 600,
+        "title": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.12658522409643,
+          22.397900629928557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 60,
+        "radius": 35,
+        "title": "Mjøsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.770158341320862,
+          60.76832519400557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "radius": 0.5,
+        "title": "Mjøsbrua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.669568855233365,
+          60.92834353621133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "radius": 0.1,
+        "title": "Mjøsferja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.73376892561803,
+          60.80829979102166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "radius": 5,
+        "title": "Nashville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79625749193117,
+          36.18427314499777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 64,
+        "radius": 0.1,
+        "title": "Nes på Hedmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.934420464992062,
+          60.76566990543343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 65,
+        "radius": 5,
+        "title": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98851506429064,
+          40.74418380588362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 66,
+        "radius": 200,
+        "title": "Nordsjøen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.082534759711673,
+          56.804434400872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 67,
+        "radius": 0.1,
+        "title": "Nygårdslund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.63313130494862,
+          60.54505403602585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 68,
+        "radius": 7,
+        "title": "Odal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588123978778686,
+          60.453166054325415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 69,
+        "radius": 0.2,
+        "title": "Odnesbakken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.206729265358193,
+          60.80750651413849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 70,
+        "radius": 60,
+        "title": "Oppland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.758567528951229,
+          61.19996234540665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "radius": 0.1,
+        "title": "Oppsaltoppen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.85131722688366,
+          59.896405591406776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "radius": 5,
+        "title": "Oslo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.734279052167025,
+          59.91196314561062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "radius": 1.5,
+        "title": "Raufoss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.612437512055937,
+          60.726497093316624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "radius": 0.6,
+        "title": "Reinsvoll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62486940895746,
+          60.68095183034168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 75,
+        "radius": 5,
+        "title": "Ringebu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.146547359962083,
+          61.52986016499962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 76,
+        "radius": 15,
+        "title": "Ringsaker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.849885860502505,
+          61.02830057257524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 77,
+        "radius": 0.5,
+        "title": "Roverud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.052012788632918,
+          60.25340448756142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 78,
+        "radius": 4,
+        "title": "Sarajevo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.411832670329318,
+          43.85687018676427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 79,
+        "radius": 2,
+        "title": "Sarpsborg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.107188236146271,
+          59.284807052174074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 80,
+        "radius": 1,
+        "title": "Selbu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.031365762230536,
+          63.22482629169775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "radius": 25,
+        "title": "Skjåk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.890281343185102,
+          61.94249279051449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "radius": 0.5,
+        "title": "Skreia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.935540496819089,
+          60.65258215400472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "radius": 3,
+        "title": "Snertingdal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.450115340434765,
+          60.87643000833422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 84,
+        "radius": 0.1,
+        "title": "Stensby"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.193454649086044,
+          60.38286659836062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 85,
+        "radius": 150,
+        "title": "Sverige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.419646709276279,
+          62.73780289509832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 86,
+        "radius": 1,
+        "title": "Svolvær"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.56248253060052,
+          68.23376291709394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 87,
+        "radius": 15,
+        "title": "Toten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698810319462064,
+          60.659538204723106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 88,
+        "radius": 0.2,
+        "title": "Totenhallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.819683019677893,
+          60.676817135669395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 89,
+        "radius": 0.2,
+        "title": "Toten museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.753427,
+          60.702235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 90,
+        "radius": 2,
+        "title": "Tromsø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.942816593100495,
+          69.66604367800761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "radius": 1800,
+        "title": "USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.08671087661806,
+          39.024649997025215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "radius": 20,
+        "title": "Valdres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.265281377222767,
+          60.98236545429844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 93,
+        "radius": 10,
+        "title": "Valdresfjell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.576155580676247,
+          61.206467181054784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 94,
+        "radius": 15,
+        "title": "Vang i Valdres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.489555943477486,
+          61.221706797768896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "radius": 1,
+        "title": "Varangerbotn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.55572771803404,
+          70.1730002605813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "radius": 0.5,
+        "title": "Vardal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52465012750481,
+          60.81579331831201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "radius": 25,
+        "title": "Vestoppland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.465857876755127,
+          60.713537086688945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "radius": 0.7,
+        "title": "Vingrom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.432450080208753,
+          61.04575335329392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "radius": 2,
+        "title": "Voss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.414906991940728,
+          60.63073427077012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "radius": 65,
+        "title": "Värmland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.223785084610277,
+          59.94421315668529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "radius": 0.4,
+        "title": "Vålerenga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.788541403396426,
+          59.90754692327356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "radius": 85,
+        "title": "Zululand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.28063003078249,
+          -27.82985844156697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "radius": 1.5,
+        "title": "Åmotfors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.362253933109955,
+          59.76350448494899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "radius": 30,
+        "title": "Ås"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.698810319462064,
+          60.659538204723106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "radius": 10,
+        "title": "Glomma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.42982090029449,
+          60.102714675694386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "radius": 2,
+        "title": "Roa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5966205,
+          60.2916501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "radius": 0.1,
+        "title": "Fjordheim pensjonat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.598658641150204,
+          60.63035391851596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "radius": 0.1,
+        "title": "Kjelstad bakeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.682997841263893,
+          60.78447090399404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "radius": 4,
+        "title": "Holmestrand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.305408211061692,
+          59.48935794106559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "radius": 1,
+        "title": "Ottestad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.137017319888026,
+          60.746733985229874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "radius": 1000,
+        "title": "Italia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.966171926145533,
+          42.44947284556441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "radius": 22,
+        "title": "Roma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.500829974444564,
+          41.899520725673284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "radius": 2,
+        "title": "Ørsta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.132707678777395,
+          62.19847277794033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "radius": 1,
+        "title": "Farfisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.522800233085555,
+          43.51472952623465
+        ]
+      }
+    }
+  ]
+}

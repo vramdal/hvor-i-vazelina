@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hvor-i-vazelina/static/css/main.d9101cd2.css",
+    "main.js": "/hvor-i-vazelina/static/js/main.99fb7609.js",
+    "static/js/787.d034e7de.chunk.js": "/hvor-i-vazelina/static/js/787.d034e7de.chunk.js",
+    "index.html": "/hvor-i-vazelina/index.html",
+    "main.d9101cd2.css.map": "/hvor-i-vazelina/static/css/main.d9101cd2.css.map",
+    "main.99fb7609.js.map": "/hvor-i-vazelina/static/js/main.99fb7609.js.map",
+    "787.d034e7de.chunk.js.map": "/hvor-i-vazelina/static/js/787.d034e7de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9101cd2.css",
+    "static/js/main.99fb7609.js"
+  ]
+}
